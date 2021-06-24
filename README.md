@@ -1,5 +1,21 @@
 # heroes-ts
 
+## Pre-Requisites
+```
+- latest Node.JS. Recommend installing via NVM if permissions allow - https://github.com/coreybutler/nvm-windows
+- latest Vue CLI
+npm install -g @vue/cli
+```
+
+## VSCode Extensions
+```
+VSCode Extensions
+=================
+ESLint      latest (1.4.9)
+Vetur       latest (0.12.3)
+vue         latest (0.1.5)
+```
+
 ## Project setup
 ```
 npm install
@@ -17,7 +33,7 @@ npm run build
 
 ### Run your unit tests
 ```
-npm run test:unit
+npm run test
 ```
 
 ### Lints and fixes files
