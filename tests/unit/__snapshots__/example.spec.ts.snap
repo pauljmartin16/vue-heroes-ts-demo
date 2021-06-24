@@ -1,0 +1,40 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`When a hero card is loaded then the hero is parsed into the component 1`] = `
+<div
+  class="hero-card"
+>
+  <div
+    class="card-content"
+  >
+    <div
+      class="content"
+    >
+      <div
+        class="name"
+      >
+        Cat Woman
+      </div>
+      <div
+        class="description"
+      >
+        Enemy of Batman
+      </div>
+    </div>
+  </div>
+  <footer
+    class="card-footer"
+  >
+    <button
+      class="link card-footer-item"
+    >
+      <i
+        class="fas fa-check"
+      />
+      <span>
+        Select
+      </span>
+    </button>
+  </footer>
+</div>
+`;
